@@ -12,7 +12,10 @@ Modelagem de um corpo semelhante a mim para quase ser chamado de meu clone, utli
 
 # CONCLUSÃO
 Todo este trabalho descrito acima eu fiz sozinho e ambos os trabalhos contem breve video demonstrativo na pasta presentation.
+
 Giovani Guedes Silva Jacintho.
 
-Trabalho feito sob orientação do Professor Will Ricardo Machado.
+
+Trabalho feito sob orientação do Professor Will Ricardo S. Machado.
+
 PUC Minas - Poços de Caldas - 13/12/2023.
