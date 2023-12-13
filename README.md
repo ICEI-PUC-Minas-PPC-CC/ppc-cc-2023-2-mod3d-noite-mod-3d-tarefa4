@@ -1,7 +1,7 @@
 
 
 # PILAR BLENDER
-Modelagem de um pilar baseado em uma imagem de referência utilizando o programa Blender na versão 3.6.5, onde foi aplicado textura, displacement e normal map a partir de texturas baixadas através do programa Quixel Bridge e adaptação da imagem referência utilizando conversor online de uma imagem comum para arquivo displacement e normal map, ao final, utilizei HDR para compor a cena e para melhor resultado na renderização.
+Modelagem de um pilar baseado em uma imagem de referência utilizando o programa Blender na versão 3.6.5, onde foi aplicado textura, displacement e normal map a partir de texturas baixadas através do programa Quixel Bridge e adaptação da imagem referência utilizando conversor online de uma imagem comum para arquivo displacement e normal map, ao final, multipliquei o pilar e acrescentei outros elementos, juntamente utilizei HDR para compor a cena para melhor resultado na renderização.
 
 ![untitled](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-mod-3d-tarefa4/assets/20716371/4fd57726-07d6-4e6d-9ccc-8f469943d056)
 
